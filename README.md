@@ -32,7 +32,6 @@ University of Texas at Tyler, Tyler, TX
 ![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Stukent Simternship](https://img.shields.io/badge/Stukent-Social%20Media%20Simternship-005D91?style=for-the-badge&logo=book&logoColor=white)
-![Google IT Support Specialist](https://img.shields.io/badge/Google-IT_Support_Specialist-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 
 <!--
