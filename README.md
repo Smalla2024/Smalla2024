@@ -3,14 +3,14 @@
 
 Objectives: 
 
-BSIT graduate with a focus on cybersecurity, showcasing hands-on experience in risk analysis, security policy development, and incident response planning. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach. Strong foundation in security operations and a passion for continuous learning.
+BSIT graduate with a focus on cybersecurity, showcasing hands-on experience in risk analysis, security policy development, and incident response planning and IT Support. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach. Strong foundation in security operations and a passion for continuous learning.
 
 < Career Goals: To continue growing in the field of cybersecurity, contribute to a team focused on enhancing security measures, and stay updated on the latest industry trends and technologies.> 
 
 
 ## Skills: 
 Python, Java, Springboot, SQL, OpenCV, Socket Programming, Tableu, Agile methodologies
-Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, Vulnerability Management, Malware Analysis, Security Policies
+IT Support, Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, Vulnerability Management, Malware Analysis, Security Policies,
 Firewall Configuration, Data querying, CIA Triad Evaluation. >
 
 
@@ -32,6 +32,7 @@ University of Texas at Tyler, Tyler, TX
 ![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)
 ![Stukent Simternship](https://img.shields.io/badge/Stukent-Social%20Media%20Simternship-005D91?style=for-the-badge&logo=book&logoColor=white)
+![Google IT Support Specialist](https://img.shields.io/badge/Google-IT_Support_Specialist-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 
 <!--
