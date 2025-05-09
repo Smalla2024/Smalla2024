@@ -16,14 +16,17 @@ Firewall Configuration, Data querying, CIA Triad Evaluation. >
 
 ## Projects & Research
 University of Texas at Tyler, Tyler, TX
-- Risk analysis and mitigation plan for ServiceNow, providing recommendations for improvement    
+- Risk analysis and mitigation plan for ServiceNow, providing recommendations for improvement.
+      <a href= https://github.com/Smalla2024/Risk-Assessment>Project Link>
 
-- Comprehensive security policy and incident response plan for The University of Texas Health Science Center
+- Comprehensive security policy and incident response plan for The University of Texas Health Science Center.
+     <a href= https://github.com/Smalla2024/Legal-and-Ethical-Framework-Analysis>Project Link>
 
-- The 2019 Capital One breach to identify key security compromises and provided recommendations for enhancement
+- The 2019 Capital One breach to identify key security compromises and provided recommendations for enhancement.
+    <a href= https://github.com/Smalla2024/Capital-One-Data-Breach-Analysis>Project Link>
 
 - Demo for CRK Racing Car using Raspberry Pi, OpenCV, Python, and Socket programming.
-    <a href= https://github.com/Smalla2024/Racing-Car-Demo>Link>
+    <a href= https://github.com/Smalla2024/Racing-Car-Demo> Project Link>
 
 
 
