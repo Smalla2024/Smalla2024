@@ -3,16 +3,16 @@
 
 Objectives: 
 
-BSIT graduate with a focus on cybersecurity, showcasing hands-on experience in risk analysis, security policy development, and incident response planning and IT Support. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach. Strong foundation in security operations and a passion for continuous learning.
-My technical skills include proficiency in Java, MySQL, Python and Tableau, allowing me to translate complex technical requirements into actionable security solutions. I also completed a full-stack Java Bootcamp, further solidifying my expertise in backend/frontend development and systems integration.
+BSIT graduate with a focus on cybersecurity, showcasing hands-on experience in Technical Support, Troubleshooting, Computer Network, risk analysis, security policy development, and incident response planning. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach. Strong foundation in security operations and a passion for continuous learning.
+My technical skills include proficiency in Java, MySQL, C++, Springboot, and Tableau, allowing me to translate complex technical requirements into actionable security solutions. I also completed a full-stack Java Bootcamp, further solidifying my expertise in backend/frontend development and systems integration.
 
 < Career Goals: To continue growing in the field of cybersecurity, contribute to a team focused on enhancing security measures, and stay updated on the latest industry trends and technologies.> 
 
 
 ## Skills: 
-Python, Java, Springboot, SQL, OpenCV, Socket Programming, Tableu, Agile methodologies
-IT Support, Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, Vulnerability Management, Malware Analysis, Security Policies,
-Firewall Configuration, Data querying, CIA Triad Evaluation. >
+- Technical Support, Troubleshooting, Computer Network, Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, 
+Vulnerability Management, Malware Analysis, Security Policies, Firewall Configuration, Data querying, CIA Triad Evaluation.
+- Java, Springboot, SQL, MySQL, OpenCV, Socket Programming, Tableu, Agile methodologies.
 
 
 ## Projects & Research
@@ -35,7 +35,8 @@ University of Texas at Tyler, Tyler, TX
 
 
 ## Certification: 
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-red?style=for-the-badge&logo=skillshare&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-red?style=for-the-badge&logo=skillshare&logoColor=white)
+![CompTIA Net+](https://img.shields.io/badge/CompTIA%20Net+-red?style=for-the-badge&logo=skillshare&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
 ![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)
