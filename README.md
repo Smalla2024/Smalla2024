@@ -3,7 +3,7 @@
 
 Objectives: 
 
-BSIT graduate with a focus on cybersecurity, showcasing hands-on experience in Technical Support, Troubleshooting, Computer Network, risk analysis, security policy development, and incident response planning. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach. Strong foundation in security operations and a passion for continuous learning.
+BSIT graduate with a focus on cybersecurity and Entrepreneurship, showcasing hands-on experience in Technical Support, Troubleshooting, Computer Network, risk analysis, security policy development, and incident response planning with hands-on planning on new business venture. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach and some business planning. Strong foundation in security operations and a passion for continuous learning.
 My technical skills include proficiency in Java, MySQL, C++, Springboot, and Tableau, allowing me to translate complex technical requirements into actionable security solutions. I also completed a full-stack Java Bootcamp, further solidifying my expertise in backend/frontend development and systems integration.
 
 < Career Goals: To continue growing in the field of cybersecurity, contribute to a team focused on enhancing security measures, and stay updated on the latest industry trends and technologies.> 
@@ -13,6 +13,7 @@ My technical skills include proficiency in Java, MySQL, C++, Springboot, and Tab
 - Technical Support, Troubleshooting, Computer Network, Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, 
 Vulnerability Management, Malware Analysis, Security Policies, Firewall Configuration, Data querying, CIA Triad Evaluation.
 - Java, Springboot, SQL, MySQL, OpenCV, Socket Programming, Tableu, Agile methodologies.
+- Leadership and Management, Communication, Teamwork, Business Planning and Smooth Operations.
 
 
 ## Projects & Research
