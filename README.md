@@ -32,6 +32,12 @@ University of Texas at Tyler, Tyler, TX
 - Simple crud application for a Hotel Booking System
   <a href= https://github.com/Smalla2024/Crud-Operation.git> Project Link>
 
+- System Analysis and Logical Design
+  <a href= https://github.com/Smalla2024/System-Analysis-and-Logical-Design---Online-Grocery-Delivery-System.git> Project Link>
+
+- New Venture Planning
+   <a href= https://github.com/Smalla2024/New-Venture-Planning.git> Project Link>
+
 
 
 ## Certification: 
