@@ -24,6 +24,9 @@ Security Auditing.
 University of Texas at Tyler, Tyler, TX
 - Risk analysis and mitigation plan for ServiceNow, providing recommendations for improvement.
       <a href= https://github.com/Smalla2024/Risk-Assessment>Project Link>
+  
+- Personal Security Audit Report
+   <a href= https://github.com/Smalla2024/PERSONAL-SECURITY-AUDIT-REPOR.git> Project Link>
 
 - Comprehensive security policy and incident response plan for The University of Texas Health Science Center.
      <a href= https://github.com/Smalla2024/Legal-and-Ethical-Framework-Analysis>Project Link>
@@ -40,18 +43,17 @@ University of Texas at Tyler, Tyler, TX
 - System Analysis and Logical Design
   <a href= https://github.com/Smalla2024/System-Analysis-and-Logical-Design---Online-Grocery-Delivery-System.git> Project Link>
 
-- New Venture Planning
-   <a href= https://github.com/Smalla2024/New-Venture-Planning.git> Project Link>
+
 
 
 
 ## Certification: 
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-red?style=for-the-badge&logo=skillshare&logoColor=white)
-![CompTIA Net+](https://img.shields.io/badge/CompTIA%20Net+-red?style=for-the-badge&logo=skillshare&logoColor=white)
+<!--![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-red?style=for-the-badge&logo=skillshare&logoColor=white)-->
+<!--![CompTIA Net+](https://img.shields.io/badge/CompTIA%20Net+-red?style=for-the-badge&logo=skillshare&logoColor=white)-->
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-blueviolet?style=for-the-badge&logo=shield&logoColor=white)
 ![Java Bootcamp](https://img.shields.io/badge/Java%20Bootcamp-orange?style=for-the-badge&logo=java&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics-34A853?style=for-the-badge&logo=google&logoColor=white)
-![Stukent Simternship](https://img.shields.io/badge/Stukent-Social%20Media%20Simternship-005D91?style=for-the-badge&logo=book&logoColor=white)
+<!--![Stukent Simternship](https://img.shields.io/badge/Stukent-Social%20Media%20Simternship-005D91?style=for-the-badge&logo=book&logoColor=white)-->
 
 
 <!--
