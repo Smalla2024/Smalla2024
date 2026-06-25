@@ -3,10 +3,8 @@
 
 Objectives: 
 
-BSIT graduate with a focus on cybersecurity and Entrepreneurship, showcasing hands-on experience in Technical Support, Troubleshooting, Computer Network, risk analysis, security policy development, and incident response planning with hands-on planning on new business venture. Completed projects include a risk analysis for ServiceNow and an analysis of the 2019 Capital One breach and some business planning. Strong foundation in security operations and a passion for continuous learning.
-My technical skills include proficiency in Java, MySQL, C++, Springboot, and Tableau, allowing me to translate complex technical requirements into actionable security solutions. I also completed a full-stack Java Bootcamp, further solidifying my expertise in backend/frontend development and systems integration.
+B.S. in Information Technology graduate with experience in technical support, risk assessment, and security focused analysis. I am actively pursuing a SOC Analyst Tier 1 / Cybersecurity Analyst role where I can apply my skills in incident analysis, access control, account security, and risk remediation to help protect systems and data. I am open for IT Support role as well where I can leverage my tier -1 IT support skills. My background includes hands-on projects in cloud breach analysis, security risk assessment, personal digital security auditing, and cybersecurity governance, along with practical experience troubleshooting technical issues across Windows, Linux, and application environments. I am especially interested in security monitoring, threat detection, incident response, and building a strong career in blue-team cybersecurity.
 
-< Career Goals: To continue growing in the field of cybersecurity, contribute to a team focused on enhancing security measures, and stay updated on the latest industry trends and technologies.> 
 
 
 ## Skills: 
