@@ -8,16 +8,16 @@ B.S. in Information Technology graduate with experience in technical support, ri
 
 
 ## Skills: 
-Cybersecurity
-Security Operations
-Incident Response
-Risk Assessment
-Identity and Access Management (IAM)
-Access Control
-Threat Analysis
-Security Analysis
-Vulnerability Management
-Security Auditing
+Cybersecurity, 
+Security Operations, 
+Incident Response, 
+Risk Assessment, 
+Identity and Access Management (IAM), 
+Access Control, 
+Threat Analysis, 
+Security Analysis, 
+Vulnerability Management, 
+Security Auditing. 
 
 
 ## Projects & Research
