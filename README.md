@@ -8,10 +8,16 @@ B.S. in Information Technology graduate with experience in technical support, ri
 
 
 ## Skills: 
-- Technical Support, Troubleshooting, Computer Network, Security Incident Response, Intrusion Detection, Network Security, Threat Intelligence, 
-Vulnerability Management, Malware Analysis, Security Policies, Firewall Configuration, Data querying, CIA Triad Evaluation.
-- Java, Springboot, SQL, MySQL, OpenCV, Socket Programming, Tableu, Agile methodologies.
-- Leadership and Management, Communication, Teamwork, Business Planning and Smooth Operations.
+Cybersecurity
+Security Operations
+Incident Response
+Risk Assessment
+Identity and Access Management (IAM)
+Access Control
+Threat Analysis
+Security Analysis
+Vulnerability Management
+Security Auditing
 
 
 ## Projects & Research
