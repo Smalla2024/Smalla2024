@@ -3,25 +3,36 @@
 
 Objectives: 
 
-B.S. in Information Technology graduate with experience in technical support, risk assessment, and security focused analysis. I am actively pursuing a SOC Analyst Tier 1 / Cybersecurity Analyst role where I can apply my skills in incident analysis, access control, account security, and risk remediation to help protect systems and data. I am open for IT Support role as well where I can leverage my tier -1 IT support skills. My background includes hands-on projects in cloud breach analysis, security risk assessment, personal digital security auditing, and cybersecurity governance, along with practical experience troubleshooting technical issues across Windows, Linux, and application environments. I am especially interested in security monitoring, threat detection, incident response, and building a strong career in blue-team cybersecurity.
 
+Currently pursuing a dual MBA/MS in Cybersecurity Management at Lindsey Wilson University, I have spent the past few years doing what a project manager does: coordinating vendors, managing competing priorities, building SOPs, communicating with stakeholders, and driving work from idea to execution — just without the PM title.
 
+I am now formalizing that experience through my MBA program and  PM certifications (Google PM Certificate in progress, and CAPM next), Agile/Scrum practice, and building a portfolio of project artifacts like charters, WBS, risk registers, and retrospectives.  
+
+I am open for a Junior Project Manager or Project Coordinator role where I can bring my management skill, clear communication, and a structured approach to getting things done.  
+
+📍 New York, NY | Open to hybrid and remote roles 
+📩 sandhyamalla2016@gmail.com
 
 ## Skills: 
-Cybersecurity, 
-Security Operations, 
-Incident Response, 
-Risk Assessment, 
-Identity and Access Management (IAM), 
-Access Control, 
-Threat Analysis, 
-Security Analysis, 
-Vulnerability Management, 
-Security Auditing. 
+Project Management: Project lifecycle • Scope & Schedule Management • Requirements Management • Risk Management • Stakeholder Communication • Project Documentation • Quality Management • Change Management • WBS
+
+Agile & Scrum: Agile Principles • Scrum • User Stories • Product Backlog • Sprint Planning • Prioritization • Continuous Improvement
+
+Business & Operations: Process Improvement • Business Analysis • Vendor Coordination • Scheduling • SOP Development • Resource Coordination • Staff Training 
+
+Technical: Microsoft Office • Google Workspace • Excel • PowerPoint • Git/GitHub • Windows • Jira • Kanban • Asana 
+
+Documentation & Reporting:  Project charters, SOPs, status reports, issue logs, knowledge base management
+
+Interpersonal Skills: • Communication • Leadership • Conflict Resolution • Adaptability • Active Listening
+
 
 
 ## Projects & Research
 University of Texas at Tyler, Tyler, TX
+- System Analysis and Logical Design
+  <a href= https://github.com/Smalla2024/System-Analysis-and-Logical-Design---Online-Grocery-Delivery-System.git> Project Link>
+  
 - Risk analysis and mitigation plan for ServiceNow, providing recommendations for improvement.
       <a href= https://github.com/Smalla2024/Risk-Assessment>Project Link>
   
@@ -40,8 +51,7 @@ University of Texas at Tyler, Tyler, TX
 - Simple crud application for a Hotel Booking System
   <a href= https://github.com/Smalla2024/Crud-Operation.git> Project Link>
 
-- System Analysis and Logical Design
-  <a href= https://github.com/Smalla2024/System-Analysis-and-Logical-Design---Online-Grocery-Delivery-System.git> Project Link>
+
 
 
 
